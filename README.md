@@ -1,3 +1,6 @@
 # "SmartWatch"
+This project presents the development of a smartwatch using FreeRTOS for efficient task management. The device integrates an OLED display for timekeeping, a heart rate sensor for real-time monitoring, and an accelerometer for step tracking. Key features include a power-efficient design with manual display activation and an automatic display-off function after 30 seconds of inactivity. The ESP32 module, leveraging its integrated WiFi capabilities, is utilized to transmit sensor data to the Arduino Cloud, enabling remote monitoring through a web application. Tasks such as real-time clock updates, heart rate monitoring, and step counting are efficiently managed by FreeRTOS. The modular codebase facilitates scalability and future enhancements, while the Arduino Cloud integration ensures seamless data synchronization and control. The smartwatch code underscores robust hardware interfacing, multitasking, and wireless connectivity, making it a viable solution for health monitoring and wearable technology.
+
+**For detailed project files and the complete project report, please refer to the attached document and files.**
 
 https://github.com/MunadEAli/SmartWatch/assets/155475774/9c10b6bd-8b51-4376-abf8-5cf928d7f329
